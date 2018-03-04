@@ -1,6 +1,6 @@
 "# hello-world" 
 
-[!Vuongblog](https://vuongblog.wordpess.com)
+[Vuongblog](https://vuongblog.wordpess.com)
 
 This is a repo to hold various Dockerfiles for images I create.
 
